@@ -1,1 +1,6 @@
 # Customer-Segmentation
+Mass marketing tactics have been used for years by many companies and it has given some good results for some of them. But, as this approach has been using companies resources in an inefficient way, it has been questioned for years and started to been seen as an expensive and time-consuming strategy. The main purpose of this analysis is to cluster customer data into groups sharing the same properties or behavioral characteristics. By clustering customers, companies will be able to drive dynamic content and personalization tactics for an effective marketing communications.
+
+Behavior and Loyalty : These cohorts are customers who purchased a product or subscribed to a service in the past. It groups customers by the type of product or service they signed up. Customers who signed up for basic level services might have different needs than those who signed up for advanced services. Understanding the needs of the various cohorts can help a company design custom-made services or products for particular segments
+
+Time-based cohorts are customers who signed up for a product or service during a particular time frame. Analyzing these cohorts shows the customers' behavior depending on the time they started using a company's products or services. The time may be monthly or quarterly, depending on the sales cycle of a company.
